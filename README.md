@@ -1,32 +1,35 @@
 # 2022 RitAngle Comp
 Our solutions for the 2022 RitAngle Competition  <br />
 Thanks to the work of Martin WALKER, Apoorva ARFE, Jack MOABY, Stanley SMITH, Adam DREW for outstanding contributions to the team! <br />
-Note: [Q - Initials of who solved it]<br />
+
 
 
 ## Solutions
 ### Stage 1 - FINISHED :white_check_mark:
-<pre>
-[1 - JM]            18  <br />
-[2 - JM]            648 <br />
-[3 - JM]            27 <br />
-[4 - MW, AA, JM]    324 <br />
-[5 - MW]            432 <br />
-[6 - SS]            6 <br />
-[7 - JM]            72 <br />
-[8 - SS]            36 <br />
-[9 - JM]            81 <br />
-[10 - JM]           8 <br />
-[11 - MW, JM]       108 <br />
-[12 - JM]           16 <br />
-[13 - MW, AA]       54 <br />
-[14 - MW, AA]       48 <br />
-[15 - JM]           9 (did this one in turtle) <br />
-[16 - MW]           24 <br />
-[17 - JM]           12 <br />
-[18 - JM]           2 <br />
-[19 - MW, AD]       144 <br />
-[20 - JM]           3 <br />
+
+<pre align="center">
+| Questions      | Credit         | Solutions      |
+|----------------|----------------|----------------|
+| 1              | JM             | 18             |
+| 2              | JM             | 648            |
+| 3              | JM             | 27             |
+| 4              | MW, AA, JM     | 324            |
+| 5              | MW             | 432            |
+| 6              | SS             | 6              |
+| 7              | JM             | 72             |
+| 8              | SS             | 36             |
+| 9              | JM             | 81             |
+| 10             | JM             | 8              |
+| 11             | MW, JM         | 108            |
+| 12             | JM             | 16             |
+| 13             | MW, AA         | 54             |
+| 14             | MW, AA         | 48             |
+| 15             | JM             | 9              |
+| 16             | MW             | 24             |
+| 17             | JM             | 12             |
+| 18             | JM             | 2              |
+| 19             | MW, AD, AA     | 144            |
+| 20             | JM             | 3              |
 </pre>
 
 ### Stage 2 - FINISHED :white_check_mark:
