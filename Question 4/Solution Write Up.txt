@@ -1,0 +1,18 @@
+See image (this is the processing written in text form)
+
+y = x must be at 60 degrees from both y = ax and y = bx
+Therefore the gradients are:
+  tan^-1(165)
+  tan^-1(105) (60 degrees away from the other)
+  
+As b < a < 0 then a = tan^-1(165) & b = tan^-1(105)
+Due to the the equalateral nature and 1/2absin(C) = area, 1 side length is 1 = 1/2*(L^2)sin(60) therefore L = sqrt(2/(sin(60)) = sqrt(4/sqrt(3))
+
+sin(45) = YCoordOfHigestPoint / L
+YCoordOfHigestPoint = sqrt(2)/2 * sqrt(4/sqrt(3)) which is about 1.07
+
+sin(15) = YCoordOfLowestPoint / L
+YCoordOfLowestPoint = ((sqrt(6)-sqrt(2))/4) * sqrt(4/sqrt(3)
+
+Therefore the sum of the Y coords is [sqrt(2)/2 * sqrt(4/sqrt(3))] - [((sqrt(6)-sqrt(2))/4) * sqrt(4/sqrt(3)] which is about 0.68125
+Answer * 476 = 324.275 or 324

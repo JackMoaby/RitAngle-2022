@@ -1,0 +1,10 @@
+Solved solution:   7252245
+
+Time taken:   0.011126700002932921
+
+A =  6
+B =  5
+C =  2
+D =  3
+E =  4
+F =  1
