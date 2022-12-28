@@ -6,26 +6,28 @@ Note: [Q - Initials of who solved it]<br />
 
 ## Solutions
 ### Stage 1 - FINISHED :white_check_mark:
-[1 - JM] 18  <br />
-[2 - JM] 648 <br />
-[3 - JM] 27 <br />
-[4 - MW, AA, JM] 324 <br />
-[5 - MW] 432 <br />
-[6 - SS] 6 <br />
-[7 - JM] 72 <br />
-[8 - SS] 36 <br />
-[9 - JM] 81 <br />
-[10 - JM] 8 <br />
-[11 - MW, JM] 108 <br />
-[12 - JM] 16 <br />
-[13 - MW, AA] 54 <br />
-[14 - MW, AA] 48 <br />
-[15 - JM] 9 (did this one in turtle) <br />
-[16 - MW] 24 <br />
-[17 - JM] 12 <br />
-[18 - JM] 2 <br />
-[19 - MW, AD] 144 <br />
-[20 - JM] 3 <br />
+<pre>
+[1 - JM]            18  <br />
+[2 - JM]            648 <br />
+[3 - JM]            27 <br />
+[4 - MW, AA, JM]    324 <br />
+[5 - MW]            432 <br />
+[6 - SS]            6 <br />
+[7 - JM]            72 <br />
+[8 - SS]            36 <br />
+[9 - JM]            81 <br />
+[10 - JM]           8 <br />
+[11 - MW, JM]       108 <br />
+[12 - JM]           16 <br />
+[13 - MW, AA]       54 <br />
+[14 - MW, AA]       48 <br />
+[15 - JM]           9 (did this one in turtle) <br />
+[16 - MW]           24 <br />
+[17 - JM]           12 <br />
+[18 - JM]           2 <br />
+[19 - MW, AD]       144 <br />
+[20 - JM]           3 <br />
+</pre>
 
 ### Stage 2 - FINISHED :white_check_mark:
 [21] 11411 <br />
