@@ -58,6 +58,6 @@ Our solutions for the 2022 RitAngle Competition <br />
 
 YOURCODEWORDVOLCANIA
 ### Stage 3 - FINSISHED :negative_squared_cross_mark: <br />
-[[FINAL](#question-final)] 94416.68s <br />
+[FINAL] 94416.68s <br />
 
 93939.28 seconds was the fastest possible route D:
