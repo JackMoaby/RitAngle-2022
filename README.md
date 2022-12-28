@@ -1,6 +1,7 @@
 # 2022 RitAngle Comp
 Our solutions for the 2022 RitAngle Competition  <br />
-Thanks to the work of Martin WALKER, Apoorva ARFE, Jack MOABY, Stanley SMITH, Adam DREW for outstanding contributions to the team! [Q - Credits]<br />
+Thanks to the work of Martin WALKER, Apoorva ARFE, Jack MOABY, Stanley SMITH, Adam DREW for outstanding contributions to the team! <br />
+Note: [Q - Initials of who solved it]<br />
 
 
 ## Solutions
