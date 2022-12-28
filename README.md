@@ -1,5 +1,4 @@
 # 2022 RitAngle Comp
-My team's solutions for the 2022 RitAngle Competition  <br />
 Thanks to the work of Martin WALKER, Apoorva ARFE, Jack MOABY, Stanley SMITH, Adam DREW, Majd QAHWAJI for outstanding contributions to the team! <br />
 
 
