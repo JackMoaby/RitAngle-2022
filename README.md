@@ -46,7 +46,7 @@ Thanks to the work of Martin WALKER, Apoorva ARFE, Jack MOABY, Stanley SMITH, Ad
 | 28             | [N/A]          | 0.405          |
 </pre>
 
-### Stage 3 code - FINSISHED :white_check_mark:
+### Stage 3 code - FINISHED :white_check_mark:
 <pre align="center">
 | Questions      | Value          | Output (Char)  |
 |----------------|----------------|----------------|
@@ -77,7 +77,7 @@ Thanks to the work of Martin WALKER, Apoorva ARFE, Jack MOABY, Stanley SMITH, Ad
 </pre>
 
 
-### Stage 3 - FINSISHED :negative_squared_cross_mark: <br />
+### Stage 3 - FINISHED :negative_squared_cross_mark: <br />
 <pre align="center">
     94416.68 seconds
 </pre>
