@@ -1,6 +1,6 @@
 # 2022 RitAngle Comp
 Our solutions for the 2022 RitAngle Competition  <br />
-Thanks to the work of Martin WALKER, Apoorva ARFE, Jack MOABY, Stanley SMITH, Adam DREW for outstanding contributions to the team! <br />
+Thanks to the work of Martin WALKER, Apoorva ARFE, Jack MOABY, Stanley SMITH, Adam DREW, Majd QAHWAJI for outstanding contributions to the team! <br />
 
 
 
@@ -37,7 +37,7 @@ Thanks to the work of Martin WALKER, Apoorva ARFE, Jack MOABY, Stanley SMITH, Ad
 | Questions      | Credit         | Solutions      |
 |----------------|----------------|----------------|
 | 21             | JM             | 11411          |
-| 22             | MW             | 8191           |
+| 22             | MW, MQ         | 8191           |
 | 23             | JM, SS         | 58.2           |
 | 24             | [N/A]          | 10             |
 | 25             | AA, SS         | 11003          |
