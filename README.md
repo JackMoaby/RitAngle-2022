@@ -1,5 +1,5 @@
 # 2022 RitAngle Comp
-Thanks to the work of Martin WALKER, Apoorva ARFE, Jack MOABY, Majd QAHWAJI for outstanding contributions to the team! <br />
+Thanks to the work of Martin WALKER, Apoorva AFRE, Jack MOABY, Majd QAHWAJI for outstanding contributions to the team! <br />
 
 
 
